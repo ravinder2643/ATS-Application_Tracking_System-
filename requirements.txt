@@ -2,3 +2,5 @@ streamlit
 google-generativeai
 python-dotenv
 pdf2image
+
+# https://github.com/oschwartz10612/poppler-windows/releases/tag/v24.02.0-0 download it and set path variable
